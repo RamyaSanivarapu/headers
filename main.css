@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(235, 177, 177);
+    color:brown
+}
+.heading{
+    font-family:"Roboto";
+    color:blue;
+}
+
+#head{
+    color:aqua;
+}
+
+.new{
+    color:black;
+}
+
+h5{
+    color:green !important;
+}
